@@ -1,4 +1,4 @@
-## NAME: T.KAVINAJAI
+## NAME: KAVINAJAI.T
 ## REGISTER NUMBER:212223100020
 
 # Experiment--04-Half-Subtractor-and-Full-subtractor
