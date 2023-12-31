@@ -57,7 +57,7 @@ endmodule
 ```
 ## Output:
 
-#### Truthtable:
+## Truthtable:
 ## HALF SUBTRACTOR:
 ![image](https://github.com/Kavin1311/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145695724/83cb3f54-55e8-4d00-90be-7633a9157931)
 
@@ -65,7 +65,7 @@ endmodule
 ![image](https://github.com/Kavin1311/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145695724/56931524-707a-423c-93b7-ea0a8be6a21c)
 
 
-####  RTL realization:
+###  RTL realization:
 ## HALF SUBTRACTOR:
 ![image](https://github.com/Kavin1311/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145695724/4b1f7cd6-3dea-4753-b1a2-955ca81125e3)
 
@@ -74,12 +74,12 @@ endmodule
 ![image](https://github.com/Kavin1311/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145695724/49052bdb-39dd-4c58-9169-446c7784682a)
 
 
-#### Timing diagram :
+### Timing diagram :
 ## HALF SUBTRACTOR:
 ![image](https://github.com/Kavin1311/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145695724/827b2c73-b461-41b0-b909-ea05aeac772f)
 
 ## FULL SUBTRACTOR:
 ![image](https://github.com/Kavin1311/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145695724/a6041f66-0c83-4225-8b93-08ae0e81f3fe)
 
-#### Result:
+### Result:
 Thus the half subtractor and full subtractor circuits are designed and the truth tables is verified using quartus software.
